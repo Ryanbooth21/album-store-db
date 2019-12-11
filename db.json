@@ -1,0 +1,28 @@
+{
+    "albums": [
+        {
+            "id": 1,
+            "title": "Cool Album #1",
+            "description": "Vix ne sint nominati. Altera honestatis mel ne. Ullum iudico cetero ad vis, delectus appareat ne per. Eu nam cibo fierent, adolescens disputando vel ne. Ex prima viderer saperet nec. Alia dicta putant mei cu, accusam invidunt lucilius pro ne. Tale quando integre ne eam, id mea civibus delicata. Sumo utroque omnesque ne eos, vide equidem intellegebat mea an. Accusata repudiandae an pro, eu pri phaedrum gloriatur honestatis. Ea vix nostrud volutpat, an sea alii vocent prompta. In timeam tritani sadipscing nec, pri facer eirmod intellegat et, in tacimates adipiscing vix.",
+            "albumImg": "https://m.media-amazon.com/images/I/81HnpkpqFCL._SS500_.jpg"
+            },
+            {
+            "id": 2,
+            "title": "Cool Album #2",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, et excepturi. Mollitia ab ipsam ipsum quam quo rerum natus tempora suscipit, eos exercitationem quod cumque, perspiciatis non qui sint. Culpa? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, et excepturi. Mollitia ab ipsam ipsum quam quo rerum natus tempora suscipit, eos exercitationem quod cumque, perspiciatis non qui sint. Culpa?",
+            "albumImg": "https://65.media.tumblr.com/bb2ff807f7b7fb8e3eb8be43d959f597/tumblr_obyyj2XQ5u1r9d6kgo1_1280.jpg"
+            },
+            {
+            "id": 3,
+            "title": "Cool Album #3",
+            "description": "Lorem ipsum dolor sit amet, quaeque omnesque mandamus eam in, reque everti iracundia sea at, eum impetus intellegat accommodare at. Id eam mollis omnesque. Vidit recusabo forensibus vim ei. Ex duo eirmod prompta appellantur, no per enim lobortis. Assentior definitiones eu duo, mea denique copiosae ad. Ad sit quis alia corpora, vel dicit tation fabulas te, an vis everti iisque. Quaeque offendit atomorum nec ex. Vitae regione petentium et sed, nec illum nostro consectetuer te, ut mea verear gloriatur contentiones. Vel quem causae patrioque ei, no mea civibus fuisset reformidans, ius id esse nusquam. No vim adhuc insolens, et vim suas tamquam labores. Ne sed inani saepe incorrupte, mel eu natum impedit placerat, nisl salutandi est an.",
+            "albumImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3xwYUIY2-ipFjV6R4rvR6hf5t0fyLAbR9cAkczXskSUFBXnYm&s"
+            },
+            {
+            "id": 4,
+            "title": "Cool Album #4",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, et excepturi. Mollitia ab ipsam ipsum quam quo rerum natus tempora suscipit, eos exercitationem quod cumque, perspiciatis non qui sint. Culpa? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, et excepturi. Mollitia ab ipsam ipsum quam quo rerum natus tempora suscipit, eos exercitationem quod cumque, perspiciatis non qui sint. Culpa?",
+            "albumImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqVybs6ERRbAcjCpsdfDablCLKARqBJBcYcQmpXlrKElnbCk7dvw&s"
+            }
+    ]
+}
